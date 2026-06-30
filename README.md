@@ -15,15 +15,13 @@ To run this project locally, you need a C compiler installed on your system:
 - **macOS**: Xcode Command Line Tools (`gcc`)
 - **Linux**: GCC compiler
 
+---
+
 ## How to Run
 
 Follow these simple steps to get the project up and running on your local machine:
 
-### 1. Clone the Repository
+### Option 1: Clone the Repository
 Open your terminal or Git Bash and run:
-git clone [https://github.com/SamirWithCodes/simple-calculator-in-c.git](https://github.com/SamirWithCodes/simple-calculator-in-c.git)
-
-### Option 2: Clone the Repository
-Open your terminal or command prompt and run:
 ```bash
-git clone https://github.com/SamirWithCodes/simple-calculator-in-c.git
+git clone [https://github.com/SamirWithCodes/simple-calculator-in-c.git](https://github.com/SamirWithCodes/simple-calculator-in-c.git)
